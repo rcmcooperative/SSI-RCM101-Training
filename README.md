@@ -13,8 +13,9 @@ This is useful where there are restrictions on sharing some information (GDPR) o
 
 ## Vision and Mission
 
-- **Vision:** One sentence capturing the partnership's overarching vision.
-- **Mission:** One sentence defining the partnership's goals and target audience.
+- **Vision:** Software users and developers leading inclusive, professional and sustainable communities.
+- **Mission:** Delivering focused training, developing practical tools, and fostering collaborative networks that enable Software users and developers to excel in building and managing effective research communities.
+
 
 ## About
 
@@ -22,8 +23,8 @@ Motivation and background in a nutshell.
 
 ## Roadmap & Milestones
 
-- **Vision:** Software users and developers leading inclusive, professional and sustainable communities.
-- **Mission:** Delivering focused training, developing practical tools, and fostering collaborative networks that enable Software users and developers to excel in building and managing effective research communities.
+- **Goals:** Clear overview of overarching and short-term goals.
+- **Outcomes:** Description of expected results and deliverables.
 
 ## The Team
 
