@@ -5,11 +5,9 @@
 
 ## About this Repository
 
-This repository builds on the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
+This repository is for the development and deployment of materials by the RCM Cooperative for and on behalf of the Software Sustainability Institute (SSI). 
 
-When reusing this repository, update the information below with information about the intended partnership.
-
-Note after templating this directory, you may wish to create an additional directory called `private`. 
+Note if you clone this repository you may wish to create an additional directory called `private`. 
 Use this directory to enable files to be stored locally without being included in the main repo (this directory is excluded by the [.gitignore](~/.gitignore)). 
 This is useful where there are restrictions on sharing some information (GDPR) or license terms are yet to be agreed. 
 
@@ -24,19 +22,25 @@ Motivation and background in a nutshell.
 
 ## Roadmap & Milestones
 
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
+- **Vision:** Software users and developers leading inclusive, professional and sustainable communities.
+- **Mission:** Delivering focused training, developing practical tools, and fostering collaborative networks that enable Software users and developers to excel in building and managing effective research communities.
 
 ## The Team
 
-- **Members:** List of team members and their roles in the project.
-- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
+- **Members:** 
+  - Oscar Siep (SSI) [@OscarSeip](https://github.com/OscarSeip)
+  - Cassandra "Cass" Gould van Praag (RCM Cooperative) [@cassgvp](https://github.com/cassgvp)
+  - Emma Karoune (RCM Cooperative, The Turing Way) [@EKaroune](https://github.com/EKaroune)
+  - Malvika Sharan (RCM Cooperative, Thh Turing Way, OLS) [@malvikasharan](https://github.com/malvikasharan)
+
+Roles and responsobilities TBD. 
+Initially Cass will act as main delivery lead.
 
 ## Contributing
 
-- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
-- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
-- **Resource Plans:** Details on available resources and recommended practices for the project team.
+- **Guidelines:** [Contribution Guidelines](~/CONTRIBUTING.md) for contributors.
+- **Code of Conduct:** [Code of Conduct](~/CODE_OF_CONDUCT.md) ensures a respectful project environment.
+- **Resource Plans:** Details on available resources and recommended practices for the project team - TBD
 
 ## Licensing
 
@@ -50,24 +54,23 @@ This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file f
 ## Contact
 
 - **Reach Out:** Contact details for questions, feedback, or ideas.
+cassandra.gouldvanpraag@rcmcooperative.com
 
 
 
 ### Checklist for setting an online repository 
 
-- [ ] Add a README file
-- [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [ ] Add a [LICENSE](LICENSE.md)
-- [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
+- [x] Add a README file
+- [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
+- [x] Add a [LICENSE](LICENSE.md)
+- [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
 - [ ] Install [all-contributors](https://allcontributors.org/) bot
-- [ ] .gitignore file (choose from a template)
-- [ ] Issue templates
+- [x] .gitignore file (choose from a template)
+- [x] Issue templates
     - [ ] Optionally Install [Welcome/behavior](https://github.com/behaviorbot/welcome) bot (see The Turing Way [config](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/config.yml))
-- [ ] Create a directory with files for project management (meetings, reports, proposals)
-- [ ] Create a directory with files for communications
-- [ ] Create a directory for research analysis
-- [ ] Create a directory for research results/outcomes to share (?)
-- [ ] Create a directory for ethics approval and project policies
+- [x] Create a directory with files for project management (meetings, reports, proposals)
+  - [ ] Add links to meeting notes and sync hackmd
+- [x] Create a directory with files for communications
 - [ ] Create a directory with files for stakeholders' info and the nature of engagement
 - [ ] Connect repo with Zenodo
 - [ ] Add cff file for citation
