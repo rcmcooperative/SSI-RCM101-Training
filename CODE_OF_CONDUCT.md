@@ -159,23 +159,23 @@ Restorative Practice Principles are based on Amstutz and Mullet (2005). Restorat
 ## 7. Scope
 
 **7.1** This Code of Conduct applies to all team members participating in the activities, 
-events and processes taking place within the **Open Research Community Management Team**. 
+events and processes taking place within or organised by the **RCM Cooperative**. 
 Specifically, our Code of Conduct applies to any conduct:
-- in interactions within the team/community
-- at any team activity, communication or event
-- outside the team activity when a team member is representing projects associated with the team
+- in interactions within the RCM Cooperative
+- at any RCM Cooperative activity, communication or event
+- outside RCM Cooperative activity when a Cooperative member is representing projects associated with the Cooperative
 
 **7.2** This Code of Conduct also applies to
-individuals outside this team officially representing the community in public spaces.
+individuals outside the Cooperative officially representing the community in public spaces.
 
-Examples of representing our community include using an official e-mail address,
+Examples of representing the Cooperative include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 a representative at an online or offline event.
 
 **7.3** This Code of Conduct also applies to individuals engaging with this repository 
 
 for instance, in interactions on GitHub issues and Pull Requests or activities taking 
-place in the context of the **Open Research Community Management Team**.
+place in the context of the **RCM Cooperative**.
 
 **7.4** Mediating interaction or communication between reporter and reportee 
 is not in the scope of this Code of Conduct to maintain reporters' confidentiality (see **10.3**).
@@ -329,8 +329,7 @@ Community Impact Guidelines are inspired by [Mozilla's code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
 All original work should be attributed to the respective authors of these documents.
 
-The restorative practice statements and report handling process have been derived from the Eastern University 
-Academic Charter School (EUACS) Student Code of Conduct derived from the work of 
+The restorative practice statements and report handling process have been derived from the Eastern University Academic Charter School (EUACS) Student Code of Conduct derived from the work of 
 [Ted Wachtel](https://www.iirp.edu/restorative-practices/what-is-restorative-practices)
 at International Institute for Restorative Practices (IIRP) ([download file](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwivncahh935AhVHa8AKHUyLDSMQFnoECAcQAQ&url=https%3A%2F%2Fsites.temple.edu%2Fsdejarnatt%2Ffiles%2F2015%2F11%2F2014-2015-Student-Code-of-ConductPGYSEasterUniverAcademCharteSchool.pdf&usg=AOvVaw1SxlwQQDVIaWCcED6Uj9KD)).
 
