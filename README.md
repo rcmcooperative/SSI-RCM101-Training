@@ -1,21 +1,16 @@
-# Template for setting up RCM Cooperative partner repositories
+# RCM Cooperative partnership with SSI
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About this Repository
 
-This repository is for the development and deployment of materials by the RCM Cooperative for and on behalf of the Software Sustainability Institute (SSI). 
-
-Note if you clone this repository you may wish to create an additional directory called `private`. 
-Use this directory to enable files to be stored locally without being included in the main repo (this directory is excluded by the [.gitignore](~/.gitignore)). 
-This is useful where there are restrictions on sharing some information (GDPR) or license terms are yet to be agreed. 
+This repository is for the development and deployment of materials by the RCM Cooperative for and on behalf of the [Software Sustainability Institute (SSI)](http://software.ac.uk/). 
 
 ## Vision and Mission
 
 - **Vision:** Software users and developers leading inclusive, professional and sustainable communities.
 - **Mission:** Delivering focused training, developing practical tools, and fostering collaborative networks that enable Software users and developers to excel in building and managing effective research communities.
-
 
 ## About
 
