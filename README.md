@@ -6,10 +6,13 @@
 
 This repository is for the development and deployment of materials by the RCM Cooperative for and on behalf of the [Software Sustainability Institute (SSI)](http://software.ac.uk/). 
 
-## Vision and Mission
+## Vision, Mission and Objectives
 
 - **Vision:** Software users and developers leading inclusive, professional and sustainable communities.
 - **Mission:** Delivering focused training and fostering collaborative networks that enable Research Software Engineers to excel in building and managing effective research communities.
+- **Objectives:**
+1. Develop training for online delivery
+2. Bring together SSI Fellows interest in RCM
 
 ## About
 
