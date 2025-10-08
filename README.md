@@ -1,6 +1,6 @@
 # RCM Cooperative partnership with SSI
 
-![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
+
 
 ## About this Repository
 
