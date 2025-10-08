@@ -9,16 +9,32 @@ This repository is for the development and deployment of materials by the RCM Co
 ## Vision and Mission
 
 - **Vision:** Software users and developers leading inclusive, professional and sustainable communities.
-- **Mission:** Delivering focused training, developing practical tools, and fostering collaborative networks that enable Software users and developers to excel in building and managing effective research communities.
+- **Mission:** Delivering focused training and fostering collaborative networks that enable Research Software Engineers to excel in building and managing effective research communities.
 
 ## About
 
-Motivation and background in a nutshell.
+RCM Cooperative were approaced by [SSI](http://software.ac.uk/) to deliver research community management trianing for Fellows, many of which are partially or wholly resonsible for the management of research communities. 
+
+We proposed to develop our existing trianing materials [from November 2024](https://doi.org/10.5281/zenodo.14050214), and [July 2025](https://doi.org/10.5281/zenodo.15778697) for an online cohort, and additionally include a "clinic" componant.
+
+The development and delivery of materials was funded by SSI Fellow Further Devlopment Fund awards to Malvika Sharan and Emma Karoune (see [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/2)), with Oscar Siep supprting through advertisement, registration and scheduling of the training. Development and delivery were managed by all via [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/3).
+
+This repo is the collection of materials prepared for these workshops, contributed to by participants, and a summary of feedback. 
+
 
 ## Roadmap & Milestones
+A more detailed delivery roadmap is avaialble on [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/3). The below are broad activities headings.
 
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
+- [x] Set delivery schedule
+- [x] Recruit participants
+- [x] Update materials
+- [x] Deliver workshop and clinic 1
+- [x] Review feedback and respond
+- [x] Deliver workshop and clinic 2
+- [x] Review feedback and respond
+- [ ] Collate materials for publication
+- [ ] Write a blog for SSI
+
 
 ## The Team
 
@@ -62,7 +78,6 @@ cassandra.gouldvanpraag@rcmcooperative.com
 - [x] Install [all-contributors](https://allcontributors.org/) bot
 - [x] .gitignore file (choose from a template)
 - [x] Issue templates
-    - [ ] Optionally Install [Welcome/behavior](https://github.com/behaviorbot/welcome) bot (see The Turing Way [config](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/config.yml))
 - [x] Create a directory with files for project management (meetings, reports, proposals)
   - [ ] Add links to meeting notes and sync hackmd
 - [x] Create a directory with files for communications
