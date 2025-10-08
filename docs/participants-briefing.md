@@ -5,7 +5,7 @@
 
 ---
 
-## Important information**
+## Important information
 
 Dates: 
 * Workshop 1 - 23rd July 2025 - 14:00 - 16:00 (BST)
@@ -13,7 +13,7 @@ Dates:
 * Workshop 2 - 13th August 2025 - 14:00 - 16:00 (BST)
 * Clinic 2 - 15th August 2025 - 13:00 - 14:00 (BST)
 
-**Zoom link (same for all sessions): `redacted`
+Zoom link (same for all sessions): `redacted`
 
 ### Resources
 
@@ -37,9 +37,13 @@ Dates:
 ## Table of contents
 
 [1. Purpose of these sessions](#1-purpose-of-these-sessions)
+
 [2. Miro Board activities](#2-miro-board-activities)
+
 [3. Slack](#3-slack)
+
 [4. Workshops and clinics](#4-workshops-and-clinics)
+
 [5. Contact details](#5-contact-details)
 
 
@@ -48,7 +52,7 @@ Dates:
 ### Training goals (objectives)
 
 * Learn about **research community management (RCM)** and RCM roles
-* Understand **RCM skills, knowledge, and behaviours, **and identify what is needed in your community
+* Understand **RCM skills, knowledge, and behaviours,** and identify what is needed in your community
 * Take away **concepts and framework** that can be practically used in building plans and strategies
 * Identify where your **community can be better supported**
 * Explore community-building approaches and support for SSI Fellows' community activities
@@ -57,7 +61,7 @@ Dates:
 ### Meeting practice
 
 1. Follow the participant briefing for all information and links needed (also shared in zoom)
-2. You can use Written (W) or Spoken (S) options to interact - please edit your username to indicate your preference by adding** W or S in front of your name**
+2. You can use Written (W) or Spoken (S) options to interact - please edit your username to indicate your preference by adding **W or S in front of your name**
 3. We’d love to see you, so please turn on your camera if you can - take a break if needed.
 4. All questions are welcome through chat and by raising a virtual hand (Zoom ✋)
 5. You can take notes for future reference - we have shared notes. Please credit contributions!
@@ -79,14 +83,14 @@ You will receive an email invitation to access the Miro board. Please follow the
 
 On the bottom right of your web browser, you will see the zoom control as shown below. 
 
-![miro zoom buttons](../assets/miro-zoom.png")
+![miro zoom buttons](../assets/miro-zoom.png)
 
 *Figure 1. Miro zoom control on the bottom right of your web browser. Click “+” to zoom in and “-“ to zoom out.*
 
 Initially, we suggest you zoom out so you can see all the “Frames” on the board. 
 
 
-## 3. Slack**
+## 3. Slack
 
 We will use the RCM Cooperative Slack Workspace for informal conversations between participants before, during and after these workshops. This is a space for you to connect around issues relating to the management of research communities.
 
@@ -95,9 +99,9 @@ You will have a private channel for participants in this workshop (#ssi-rcm101),
 If you are not familiar with using Slack, you may find this [Quick Start Guide from The Turing Way](https://book.the-turing-way.org/community-handbook/communication-channels/slack-start-guide) helpful.
 
 
-## 4. Workshops and clinics
+## 4. Workshop and clinic tech stack
 
-**Workshops: **We will use Zoom chat, slides and Miro throughout this workshop.
+We will use Zoom, google docs, google slides and Miro throughout this workshop.
 
 Taking notes on the shared document is optional - *if you find too many resources distracting, please stick with Zoom and Miro only.*
 
@@ -115,7 +119,7 @@ Resources are also linked at the top of this document for easy reference
 * Please bring a **critical situation/problem from your community** or a **specific implementation of RCM approaches** that is/was particularly challenging for you to deal with in your project. 
 * We as a team will diagnose the issue, share insights and identify **some potential next steps/solutions**. 
 * If you have already identified a solution, please don't write it down; you will have an opportunity to share that at the end of the clinic. 
-* We will** +1 the issue we want to discuss first**, which would mean that we may use our next clinic to discuss some challenges that we can't get through at this meeting.
+* We will **+1 the issues we want to discuss**, which would mean that we may use our next clinic to discuss some challenges that we can't get through at this meeting.
 * Before the clinic session, please add your notes in the shared document under these prompts:
     * *Community-related challenge that I am currently encountering in my project*
     * *What are the indicators that this issue is particularly challenging?*
