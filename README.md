@@ -16,17 +16,17 @@ This repository is for the development and deployment of materials by the RCM Co
 
 ## About
 
-RCM Cooperative were approaced by [SSI](http://software.ac.uk/) to deliver research community management trianing for Fellows, many of which are partially or wholly resonsible for the management of research communities. 
+RCM Cooperative were approached by [SSI](http://software.ac.uk/) to deliver research community management training for Fellows, many of which are partially or wholly responsible for the management of research communities. 
 
-We proposed to develop our existing trianing materials [from November 2024](https://doi.org/10.5281/zenodo.14050214), and [July 2025](https://doi.org/10.5281/zenodo.15778697) for an online cohort, and additionally include a "clinic" componant.
+We proposed to develop our existing training materials [from November 2024](https://doi.org/10.5281/zenodo.14050214), and [July 2025](https://doi.org/10.5281/zenodo.15778697) for an online cohort, and additionally include a "clinic" component.
 
-The development and delivery of materials was funded by SSI Fellow Further Devlopment Fund awards to Malvika Sharan and Emma Karoune (see [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/2)), with Oscar Siep supprting through advertisement, registration and scheduling of the training. Development and delivery were managed by all via [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/3).
+The development and delivery of materials was funded by SSI Fellow Further Development Fund awards to Malvika Sharan and Emma Karoune (see [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/2)), with Oscar Siep supporting through advertisement, registration and scheduling of the training. Development and delivery were managed by all via [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/3).
 
 This repo is the collection of materials prepared for these workshops, contributed to by participants, and a summary of feedback. 
 
 
 ## Roadmap & Milestones
-A more detailed delivery roadmap is avaialble on [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/3). The below are broad activities headings.
+A more detailed delivery roadmap is available on [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/3). The below are broad activities headings.
 
 - [x] Set delivery schedule
 - [x] Recruit participants
@@ -34,9 +34,15 @@ A more detailed delivery roadmap is avaialble on [this issue](https://github.com
 - [x] Deliver workshop and clinic 1
 - [x] Review feedback and respond
 - [x] Deliver workshop and clinic 2
-- [x] Review feedback and respond
+- [x] Review feedback and write a summary
 - [ ] Collate materials for publication
-- [ ] Write a blog for SSI
+    - [x] Participant info sheets
+    - [x] Facilitators briefings
+    - [ ] In session notes where participants have consented to be identifiable
+    - [ ] Feedback
+    - [x] Sanitized meeting notes
+- [ ] Add participants via all-contributors
+- [x] Write a blog for SSI
 
 
 ## The Team
@@ -47,14 +53,14 @@ A more detailed delivery roadmap is avaialble on [this issue](https://github.com
   - Emma Karoune (RCM Cooperative, The Turing Way) [@EKaroune](https://github.com/EKaroune)
   - Malvika Sharan (RCM Cooperative, Thh Turing Way, OLS) [@malvikasharan](https://github.com/malvikasharan)
 
-Roles and responsobilities TBD. 
-Initially Cass will act as main delivery lead.
+Cass will act as main delivery lead.
+Cass, Emma and Malvika will develop materials. 
+Oscar will support with scheduling and communications with SSI fellows.
 
 ## Contributing
 
 - **Guidelines:** [Contribution Guidelines](~/CONTRIBUTING.md) for contributors.
 - **Code of Conduct:** [Code of Conduct](~/CODE_OF_CONDUCT.md) ensures a respectful project environment.
-- **Resource Plans:** Details on available resources and recommended practices for the project team - TBD
 
 ## Licensing
 
@@ -62,15 +68,18 @@ This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file f
 
 ## Citing & Acknowledgement
 
-- **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Recognising contributions by different members.
+### Citing this project
+
+Information to follow
+
+### Acknowledgement
+
+This repository uses the template created and maintained by The Turing Way team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
 
 ## Contact
 
 - **Reach Out:** Contact details for questions, feedback, or ideas.
 cassandra.gouldvanpraag@rcmcooperative.com
-
-
 
 ### Checklist for setting an online repository 
 
@@ -82,17 +91,17 @@ cassandra.gouldvanpraag@rcmcooperative.com
 - [x] .gitignore file (choose from a template)
 - [x] Issue templates
 - [x] Create a directory with files for project management (meetings, reports, proposals)
-  - [ ] Add links to meeting notes and sync hackmd
+  - [x] Add links to meeting notes and sync hackmd
 - [x] Create a directory with files for communications
-- [ ] Create a directory with files for stakeholders' info and the nature of engagement
-- [ ] Connect repo with Zenodo
+- [x] Create a directory with files for stakeholders' info and the nature of engagement
+- [ ] Connect repo with Zenodo - add to [presentation materials](https://doi.org/10.5281/zenodo.16360045)
 - [ ] Add cff file for citation
 - [ ] Add badges
 
 
 ## Contributors ✨
 
-Thanks goes to these people for the development of reseources ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these people for the development of resources ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
