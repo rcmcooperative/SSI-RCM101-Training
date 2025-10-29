@@ -50,6 +50,16 @@
         "projectManagement",
         "ideas"
       ]
+    },
+    {
+      "login": "alessandrofelder",
+      "name": "Alessandro Felder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10500965?v=4",
+      "profile": "https://github.com/alessandrofelder",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ]
 }
