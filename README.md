@@ -101,7 +101,8 @@ This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file f
 
 ### Citing this project
 
-Information to follow
+Please cite this work as below:
+> Gould van Praag, C., Karoune, E., Sharan, M., & Seip, O. (2025). SSI RCM101 Training (v1.0.0.1). Zenodo. https://doi.org/10.5281/zenodo.17477987
 
 ### Acknowledgement
 
