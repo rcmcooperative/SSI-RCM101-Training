@@ -1,5 +1,7 @@
 <a id="top-of-section"></a>
 
+[![DOI](https://zenodo.org/badge/993313894.svg)](https://zenodo.org/badge/latestdoi/993313894)
+
 # RCM Cooperative partnership with SSI
 
 [![All Contributors](https://img.shields.io/github/all-contributors/rcmcooperative/SSI-RCM101-Training?color=ee8449&style=flat-square)](#contributors)
@@ -167,5 +169,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   - [x] Add links to meeting notes and sync hackmd
 - [x] Create a directory with files for communications
 - [x] Create a directory with files for stakeholders' info and the nature of engagement
-- [ ] Connect repo with Zenodo - add to [presentation materials](https://doi.org/10.5281/zenodo.16360045)
-- [ ] Add cff file for citation
+- [x] Connect repo with Zenodo - add to [presentation materials](https://doi.org/10.5281/zenodo.16360045)
+- [x] Add cff file for citation
