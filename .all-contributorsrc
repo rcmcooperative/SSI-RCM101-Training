@@ -70,6 +70,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "vmaraneta",
+      "name": "Anica Araneta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/211810747?v=4",
+      "profile": "https://github.com/vmaraneta",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ]
 }
