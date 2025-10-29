@@ -120,6 +120,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "rivaquiroga",
+      "name": "Riva Quiroga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31421616?v=4",
+      "profile": "https://rivaquiroga.cl/",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ]
 }
