@@ -141,6 +141,9 @@ Thanks goes to these people for the development of resources ([emoji key](https:
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Robadob"><img src="https://avatars.githubusercontent.com/u/742154?v=4?s=100" width="100px;" alt="Robert Chisholm"/><br /><sub><b>Robert Chisholm</b></sub></a><br /><a href="#content-Robadob" title="Content">🖋</a> <a href="#example-Robadob" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/samumantha"><img src="https://avatars.githubusercontent.com/u/32324155?v=4?s=100" width="100px;" alt="Samantha Wittke"/><br /><sub><b>Samantha Wittke</b></sub></a><br /><a href="#content-samumantha" title="Content">🖋</a> <a href="#example-samumantha" title="Examples">💡</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SaraVilla"><img src="https://avatars.githubusercontent.com/u/43204602?v=4?s=100" width="100px;" alt="Sara Villa"/><br /><sub><b>Sara Villa</b></sub></a><br /><a href="#content-SaraVilla" title="Content">🖋</a> <a href="#example-SaraVilla" title="Examples">💡</a></td>
+    </tr>
   </tbody>
 </table>
 
