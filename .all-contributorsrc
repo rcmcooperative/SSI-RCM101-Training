@@ -140,6 +140,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "samumantha",
+      "name": "Samantha Wittke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32324155?v=4",
+      "profile": "https://github.com/samumantha",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ]
 }
