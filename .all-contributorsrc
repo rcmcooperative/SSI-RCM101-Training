@@ -100,6 +100,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "nickynicolson",
+      "name": "Nicky Nicolson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3758694?v=4",
+      "profile": "http://bit.ly/kew-nickyn",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ]
 }
