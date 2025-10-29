@@ -1,3 +1,5 @@
+<a id="top-of-section"></a>
+
 # RCM Cooperative partnership with SSI
 
 [![All Contributors](https://img.shields.io/github/all-contributors/rcmcooperative/SSI-RCM101-Training?color=ee8449&style=flat-square)](#contributors)
