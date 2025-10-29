@@ -8,6 +8,21 @@
 
 This repository is for the development and deployment of materials by the RCM Cooperative for and on behalf of the [Software Sustainability Institute (SSI)](http://software.ac.uk/). 
 
+---
+## Contents
+
+1. [Vision, Mission and Objectives](#vision-mission-and-objectives)
+1. [How it started and where it's going](#how-it-started-and-where-its-going)
+1. [Milestones](#roadmap--milestones)
+1. [The Team](#the-team)
+1. [Contributing](#contributing)
+1. [Licensing](#licensing)
+1. [Citing & Acknowledgement](#citing--acknowledgement)
+1. [Contact](#contact)
+1. [Contributors](#contributors-)
+
+---
+
 ## Vision, Mission and Objectives
 
 - **Vision:** Software users and developers leading inclusive, professional and sustainable communities.
@@ -16,7 +31,7 @@ This repository is for the development and deployment of materials by the RCM Co
 1. Develop training for online delivery
 2. Bring together SSI Fellows interest in RCM
 
-## About
+## How it started and where it's going
 
 RCM Cooperative were approached by [SSI](http://software.ac.uk/) to deliver research community management training for Fellows, many of which are partially or wholly responsible for the management of research communities. 
 
@@ -24,10 +39,12 @@ We proposed to develop our existing training materials [from November 2024](http
 
 The development and delivery of materials was funded by SSI Fellow Further Development Fund awards to Malvika Sharan and Emma Karoune (see [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/2)), with Oscar Siep supporting through advertisement, registration and scheduling of the training. Development and delivery were managed by all via [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/3).
 
-This repo is the collection of materials prepared for these workshops, contributed to by participants, and a summary of feedback. 
+This repo is the collection of materials prepared for these workshops and contributions by participants, including feedback in the workshops.
+
+We are continuing to work collaboratively with SSI to build and professionalise community management capacity, through joint grant applications and future training plans.  We would love to connect with anyone with a similar [vision](#vision-mission-and-objectives), and explore ways we can support your work. Please [get in touch!](#contact)
 
 
-## Roadmap & Milestones
+## Milestones
 A more detailed delivery roadmap is available on [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/3). The below are broad activities headings.
 
 - [x] Set delivery schedule
@@ -46,6 +63,8 @@ A more detailed delivery roadmap is available on [this issue](https://github.com
     - [x] Sanitized meeting notes
 - [ ] Add participants via all-contributors
 - [x] Write a blog for SSI
+- [ ] Promote SSI blog
+- [ ] Find more oportunities for collaboration with SSI and RSE communities in general - ongoing!
 
 
 ## The Team
@@ -56,14 +75,16 @@ A more detailed delivery roadmap is available on [this issue](https://github.com
   - Emma Karoune (RCM Cooperative, The Turing Way) [@EKaroune](https://github.com/EKaroune)
   - Malvika Sharan (RCM Cooperative, Thh Turing Way, OLS) [@malvikasharan](https://github.com/malvikasharan)
 
-Cass will act as main delivery lead.
-Cass, Emma and Malvika will develop materials. 
-Oscar will support with scheduling and communications with SSI fellows.
+- **Responsibilities**
+  - Cass will act as main delivery lead for RCM 101.
+  - Cass, Emma and Malvika will develop RCM 101 materials. 
+  - Oscar will support with scheduling and communications with SSI fellows.
+  - All will support the exploration of future collaboration opportunities.
 
 ## Contributing
 
-- **Guidelines:** [Contribution Guidelines](~/CONTRIBUTING.md) for contributors.
-- **Code of Conduct:** [Code of Conduct](~/CODE_OF_CONDUCT.md) ensures a respectful project environment.
+- **Guidelines:** [Contribution Guidelines](CONTRIBUTING.md) for contributors.
+- **Code of Conduct:** [Code of Conduct](CODE_OF_CONDUCT.md) ensures a respectful project environment.
 
 ## Licensing
 
@@ -81,26 +102,7 @@ This repository uses the template created and maintained by The Turing Way team 
 
 ## Contact
 
-- **Reach Out:** Contact details for questions, feedback, or ideas.
-cassandra.gouldvanpraag@rcmcooperative.com
-
-### Checklist for setting an online repository 
-
-- [x] Add a README file
-- [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [x] Add a [LICENSE](LICENSE.md)
-- [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [x] Install [all-contributors](https://allcontributors.org/) bot
-- [x] .gitignore file (choose from a template)
-- [x] Issue templates
-- [x] Create a directory with files for project management (meetings, reports, proposals)
-  - [x] Add links to meeting notes and sync hackmd
-- [x] Create a directory with files for communications
-- [x] Create a directory with files for stakeholders' info and the nature of engagement
-- [ ] Connect repo with Zenodo - add to [presentation materials](https://doi.org/10.5281/zenodo.16360045)
-- [ ] Add cff file for citation
-- [ ] Add badges
-
+- Please contact cassandra.gouldvanpraag@rcmcooperative.com, for questions, feedback, or ideas.
 
 ## Contributors ✨
 
@@ -126,3 +128,19 @@ Thanks goes to these people for the development of resources ([emoji key](https:
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Checklist for setting an online repository 
+
+- [x] Add a README file
+- [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
+- [x] Add a [LICENSE](LICENSE.md)
+- [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
+- [x] Install [all-contributors](https://allcontributors.org/) bot
+- [x] .gitignore file (choose from a template)
+- [x] Issue templates
+- [x] Create a directory with files for project management (meetings, reports, proposals)
+  - [x] Add links to meeting notes and sync hackmd
+- [x] Create a directory with files for communications
+- [x] Create a directory with files for stakeholders' info and the nature of engagement
+- [ ] Connect repo with Zenodo - add to [presentation materials](https://doi.org/10.5281/zenodo.16360045)
+- [ ] Add cff file for citation
