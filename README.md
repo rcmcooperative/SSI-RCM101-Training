@@ -38,8 +38,9 @@ A more detailed delivery roadmap is available on [this issue](https://github.com
 - [ ] Collate materials for publication
     - [x] Participant info sheets
     - [x] Facilitators briefings
-    - [ ] In session notes where participants have consented to be identifiable
-    - [ ] Feedback
+    - [x] In session notes where participants have consented to be identifiable
+    - [ ] Miro board pdf
+    - [x] Feedback
     - [x] Sanitized meeting notes
 - [ ] Add participants via all-contributors
 - [x] Write a blog for SSI
