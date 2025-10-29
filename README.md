@@ -132,6 +132,9 @@ Thanks goes to these people for the development of resources ([emoji key](https:
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/amangoel185"><img src="https://avatars.githubusercontent.com/u/10528392?v=4?s=100" width="100px;" alt="Aman Goel"/><br /><sub><b>Aman Goel</b></sub></a><br /><a href="#content-amangoel185" title="Content">🖋</a> <a href="#example-amangoel185" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vmaraneta"><img src="https://avatars.githubusercontent.com/u/211810747?v=4?s=100" width="100px;" alt="Anica Araneta"/><br /><sub><b>Anica Araneta</b></sub></a><br /><a href="#content-vmaraneta" title="Content">🖋</a> <a href="#example-vmaraneta" title="Examples">💡</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/EstherPlomp"><img src="https://avatars.githubusercontent.com/u/46314469?v=4?s=100" width="100px;" alt="Esther Plomp"/><br /><sub><b>Esther Plomp</b></sub></a><br /><a href="#content-EstherPlomp" title="Content">🖋</a> <a href="#example-EstherPlomp" title="Examples">💡</a></td>
+    </tr>
   </tbody>
 </table>
 
