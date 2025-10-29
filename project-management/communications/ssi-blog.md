@@ -1,4 +1,4 @@
-# Blog for SSI RCM 101 Training**
+# Blog for SSI RCM 101 Training
 
 ## Title: Rise of the Research Community Manager - the next digital RTP
 
@@ -46,7 +46,7 @@ Thank you to the SSI Research Community Manager, Oscar Seip, for collaborating w
 
 Many participants appreciated the workshop materials, the ‘*friendly vibe*’ and the interactivity of the sessions. Particularly helpful are the comments about our collaborative (Miro board-based) activities which will guide our continual refinement of this offering for different audiences. With important concepts to cover for new community builders, we’re aiming to run different formats of the sessions in the future and plan to run a longer cohort based training programmes with opportunities to dig deeper into the RCM skills and practices. 
 
-All resources from the workshop and clinics can be found in the [RCM Cooperative SSI RCM101 GitHub repo](https://github.com/rcmcooperative/SSI-RCM101-Training#top-of-section) ([https://doi.org/10.5281/zenodo.17477987](https://doi.org/10.5281/zenodo.17477987)`)`
+All resources from the workshop and clinics can be found in the [RCM Cooperative SSI RCM101 GitHub repo](https://github.com/rcmcooperative/SSI-RCM101-Training#top-of-section) ([https://doi.org/10.5281/zenodo.17477987](https://doi.org/10.5281/zenodo.17477987))
 
 ## Call to action
 
