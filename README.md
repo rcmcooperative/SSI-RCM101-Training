@@ -102,7 +102,12 @@ This repository uses the template created and maintained by The Turing Way team 
 
 ## Contact
 
+### Email
 - Please contact cassandra.gouldvanpraag@rcmcooperative.com, for questions, feedback, or ideas.
+
+### Slack
+- You are welcome to join us on RCM Cooperative slack! Please [email](#email) for an invite!
+- You can also find members of the [Team](#the-team) on [The Turing Way](https://book.the-turing-way.org), [OLS](http://we-are-ols.org/) and [Society of RSE](https://society-rse.org) slack workspaces - feel free to ping us there if that's easier for you!
 
 ## Contributors ✨
 

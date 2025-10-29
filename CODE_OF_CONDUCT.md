@@ -1,3 +1,6 @@
+Below is the RCM Cooperative Code of Conduct.
+Were RCM Cooperative is delivering events for SSI, or activities involving only SSI Fellows, we will follow the [SSI Code of Conduct](https://www.software.ac.uk/training/research-software-camps/code-of-conduct). 
+
 # 1. Code of Conduct for the RCM Cooperative
 
 > _A code of conduct is a set of rules outlining the norms, roles, and responsibilities or proper practices of an individual party or an organization._
