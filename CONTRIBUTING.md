@@ -21,7 +21,7 @@ Only members of this repository with Write access can approve the inclusion of t
 
 ### 5 minutes
 
-Look through our [Roadmap](./README.md#how-it-started-and-where-its-going) and [milestones](./README.md#milestones), and share this repository with someone who might be interested in this work.
+Look through our [Roadmap](./README.md#roadmap) and [milestones](./README.md#milestones), and share this repository with someone who might be interested in this work.
 **Spreading awareness is a contribution!**
 [Tell us](./README.md#contact) about this if you'd like to be acknowledged for this contribution! 
 

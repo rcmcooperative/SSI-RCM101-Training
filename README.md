@@ -12,7 +12,7 @@ This repository is for the development and deployment of materials by the RCM Co
 ## Contents
 
 1. [Vision, Mission and Objectives](#vision-mission-and-objectives)
-1. [How it started and where it's going](#how-it-started-and-where-its-going)
+1. [Roadmap](#roadmap)
 1. [Milestones](#roadmap--milestones)
 1. [The Team](#the-team)
 1. [Contributing](#contributing)
@@ -29,9 +29,10 @@ This repository is for the development and deployment of materials by the RCM Co
 - **Mission:** Delivering focused training and fostering collaborative networks that enable Research Software Engineers to excel in building and managing effective research communities.
 - **Objectives:**
 1. Develop training for online delivery
-2. Bring together SSI Fellows interest in RCM
+1. Bring together SSI Fellows interest in RCM
+1. Look for further collaboration opportunities
 
-## How it started and where it's going
+## Roadmap
 
 RCM Cooperative were approached by [SSI](http://software.ac.uk/) to deliver research community management training for Fellows, many of which are partially or wholly responsible for the management of research communities. 
 
@@ -42,6 +43,8 @@ The development and delivery of materials was funded by SSI Fellow Further Devel
 This repo is the collection of materials prepared for these workshops and contributions by participants, including feedback in the workshops.
 
 We are continuing to work collaboratively with SSI to build and professionalise community management capacity, through joint grant applications and future training plans.  We would love to connect with anyone with a similar [vision](#vision-mission-and-objectives), and explore ways we can support your work. Please [get in touch!](#contact)
+
+You can review our [success against our objectives](./project-management/success-against-objectives.md) to see our reflections on this work to date!
 
 
 ## Milestones
