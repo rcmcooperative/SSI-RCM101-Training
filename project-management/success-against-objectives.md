@@ -22,7 +22,7 @@ We have continued to connect and collaborate with some of these Fellows individu
 
 We use the ["4 plus 1" questions framework](https://www.helensandersonassociates.com/4-plus-1-questions/) as a simple tool to reflect on the project, identify things to celebrate and opportunities to address challenges in the future. 
 
-### What did we try
+### What did we try?
 - We adapted our in-person training to online. 
     - We used our experience of delivering online events to ensure there were enough breaks and split the material over two sessions. 
     - We split the facilitation over 3 people (incorporating three peoples adaptations of the materials!)
@@ -32,14 +32,14 @@ We use the ["4 plus 1" questions framework](https://www.helensandersonassociates
 - We leant on Oscar a lot to facilitate communication with participants and scheduling! 
     - July/August was a tricky time to deliver anything.
 
-### What did we learn
+### What did we learn?
 - There was still too much material, even going from 1.5h the [first time we lead this workshop](https://zenodo.org/records/14056130), to 4h now (without the clinic).
 - We probably didn't do enough work to build community between the participants before the event, or explain why we were dedicating so much time to introductions in the meeting (see [feedback comments](feedback-rcm101-202506.md)).
 We maybe need to do some more work to understand if there is a need for specific RCM community in this group, and how we could potentially fulfil that need.
 - Miro was ok, but not a good experience for some (see [feedback comments](feedback-rcm101-202506.md))! 
 
-### What are we pleased about
-- We adapted the clinic format bet3ween the sessions to allow people to request what type of discussion they would like to have. 
+### What are we pleased about?
+- We adapted the clinic format between the sessions to allow people to request what type of discussion they would like to have. 
 This decision was made because we realised that the norm of our old team weren't established in this group, so we needed to lay some ground work. 1
 - The training was generally well received (see [feedback comments](feedback-rcm101-202506.md))!
 People especially liked the frameworks and thinking space to do this work.
@@ -47,7 +47,7 @@ People especially liked the frameworks and thinking space to do this work.
 We understood each others skills and resourcing and were able to adapt well in the moment. 
 Delivering RCM101 was a great first collaboration with SSI.
 
-### What are we concerned about
+### What are we concerned about?
 - We need to do some more thinking about the miro activities, to make that easier to navigate. 
 We could explore different tools, but we don't want to risk tool overload. 
 - There is a mix of expertise in this population, and we should think about developing offerings which are valuable to different skills sets. 
