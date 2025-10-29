@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SSI RCM101 Training
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Cassandra
+    family-names: Gould van Praag
+    affiliation: RCM Cooperative
+    orcid: 'https://orcid.org/0000-0002-8584-4637'
+  - given-names: Emma
+    family-names: Karoune
+    affiliation: Alan Turing Institute
+    orcid: 'https://orcid.org/0000-0002-6576-6053'
+  - given-names: Malvika
+    family-names: Sharan
+    orcid: 'https://orcid.org/0000-0001-6619-7369'
+  - given-names: Oscar
+    family-names: Seip
+    affiliation: Software Sustainability Institute
+    orcid: 'https://orcid.org/0000-0002-8503-2698'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17477869
+repository-code: 'https://github.com/rcmcooperative/SSI-RCM101-Training'
+abstract: >-
+  This repository is for the development and deployment of
+  training materials by the RCM Cooperative for and on
+  behalf of the Software Sustainability Institute (SSI).
+license: CC-BY-4.0
+date-released: '2025-10-29'
