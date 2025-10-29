@@ -136,6 +136,7 @@ Thanks goes to these people for the development of resources ([emoji key](https:
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/EstherPlomp"><img src="https://avatars.githubusercontent.com/u/46314469?v=4?s=100" width="100px;" alt="Esther Plomp"/><br /><sub><b>Esther Plomp</b></sub></a><br /><a href="#content-EstherPlomp" title="Content">🖋</a> <a href="#example-EstherPlomp" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.jannetta.com"><img src="https://avatars.githubusercontent.com/u/6432530?v=4?s=100" width="100px;" alt="Jannetta Steyn"/><br /><sub><b>Jannetta Steyn</b></sub></a><br /><a href="#content-jsteyn" title="Content">🖋</a> <a href="#example-jsteyn" title="Examples">💡</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://bit.ly/kew-nickyn"><img src="https://avatars.githubusercontent.com/u/3758694?v=4?s=100" width="100px;" alt="Nicky Nicolson"/><br /><sub><b>Nicky Nicolson</b></sub></a><br /><a href="#content-nickynicolson" title="Content">🖋</a> <a href="#example-nickynicolson" title="Examples">💡</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://meagdoherty.io"><img src="https://avatars.githubusercontent.com/u/16547063?v=4?s=100" width="100px;" alt="Meag Doherty"/><br /><sub><b>Meag Doherty</b></sub></a><br /><a href="#content-meagdoh" title="Content">🖋</a> <a href="#example-meagdoh" title="Examples">💡</a></td>
     </tr>
   </tbody>
 </table>

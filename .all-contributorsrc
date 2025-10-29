@@ -110,6 +110,16 @@
         "content",
         "example"
       ]
+    },
+    {
+      "login": "meagdoh",
+      "name": "Meag Doherty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16547063?v=4",
+      "profile": "http://meagdoherty.io",
+      "contributions": [
+        "content",
+        "example"
+      ]
     }
   ]
 }
