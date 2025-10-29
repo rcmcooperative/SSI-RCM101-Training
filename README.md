@@ -38,11 +38,13 @@ RCM Cooperative were approached by [SSI](http://software.ac.uk/) to deliver rese
 
 We proposed to develop our existing training materials [from November 2024](https://doi.org/10.5281/zenodo.14050214), and [July 2025](https://doi.org/10.5281/zenodo.15778697) for an online cohort, and additionally include a "clinic" component.
 
-The development and delivery of materials was funded by SSI Fellow Further Development Fund awards to Malvika Sharan and Emma Karoune (see [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/2)), with Oscar Siep supporting through advertisement, registration and scheduling of the training. Development and delivery were managed by all via [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/3).
+The development and delivery of materials was funded by **SSI Fellow Further Development Fund** awards to Malvika Sharan and Emma Karoune (see [the fund application](./project-management/funding-application.md) [this issue tracking acquisition of the funding](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/2)), with Oscar Siep supporting through advertisement, registration and scheduling of the training. 
+Development and delivery of the training were managed by all team members, tracking on [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/3).
 
 This repo is the collection of materials prepared for these workshops and contributions by participants, including feedback in the workshops.
 
-We are continuing to work collaboratively with SSI to build and professionalise community management capacity, through joint grant applications and future training plans.  We would love to connect with anyone with a similar [vision](#vision-mission-and-objectives), and explore ways we can support your work. Please [get in touch!](#contact)
+We are continuing to work collaboratively with SSI to build and professionalise community management capacity, through joint grant applications and future training plans.  
+We would love to connect with anyone with a similar [vision](#vision-mission-and-objectives), and explore ways we can support your work. Please [get in touch!](#contact)
 
 You can review our [success against our objectives](./project-management/success-against-objectives.md) to see our reflections on this work to date!
 
