@@ -1,10 +1,11 @@
 <a id="top-of-section"></a>
 
-[![DOI](https://zenodo.org/badge/993313894.svg)](https://zenodo.org/badge/latestdoi/993313894)
-
 # RCM Cooperative partnership with SSI
 
+[![DOI](https://zenodo.org/badge/993313894.svg)](https://zenodo.org/badge/latestdoi/993313894)
+
 [![All Contributors](https://img.shields.io/github/all-contributors/rcmcooperative/SSI-RCM101-Training?color=ee8449&style=flat-square)](#contributors)
+
 
 ## About this Repository
 
@@ -30,25 +31,25 @@ This repository is for the development and deployment of materials by the RCM Co
 - **Vision:** Software users and developers leading inclusive, professional and sustainable communities.
 - **Mission:** Delivering focused training and fostering collaborative networks that enable Research Software Engineers to excel in building and managing effective research communities.
 - **Objectives:**
-1. Develop training for online delivery
-1. Bring together SSI Fellows interest in RCM
-1. Look for further collaboration opportunities
+1. Develop training for SSI Fellows
+1. Bring together SSI Fellows interested in research community management (RCM)
+1. Look for opportunities to collaborate with SSI towards our shared vision
 
 ## Roadmap
 
-RCM Cooperative were approached by [SSI](http://software.ac.uk/) to deliver research community management training for Fellows, many of which are partially or wholly responsible for the management of research communities. 
+RCM Cooperative were approached by [SSI](http://software.ac.uk/) to deliver RCM training for Fellows, many of which are partially or wholly responsible for the management of research communities. 
 
-We proposed to develop our existing training materials [from November 2024](https://doi.org/10.5281/zenodo.14050214), and [July 2025](https://doi.org/10.5281/zenodo.15778697) for an online cohort, and additionally include a "clinic" component.
+We proposed to develop our existing "RCM 101"training materials [from November 2024](https://doi.org/10.5281/zenodo.14050214), and [July 2025](https://doi.org/10.5281/zenodo.15778697) for an online cohort, and additionally include a "clinic" component where Fellows could provide guided peer support on their RCM challenges.
 
-The development and delivery of materials was funded by **SSI Fellow Further Development Fund** awards to Malvika Sharan and Emma Karoune (see [the fund application](./project-management/funding-application.md) [this issue tracking acquisition of the funding](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/2)), with Oscar Siep supporting through advertisement, registration and scheduling of the training. 
-Development and delivery of the training were managed by all team members, tracking on [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/3).
+The development and delivery of training materials was funded by **SSI Fellow Further Development Fund** awards to Malvika Sharan and Emma Karoune (see [the fund application](./project-management/funding-application.md) and [this issue tracking award of the funding](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/2)), with Oscar Seip supporting through advertisement, registration and scheduling of the training. 
+Development and delivery of the training was managed by all team members, tracking on [this issue](https://github.com/rcmcooperative/SSI-RCM101-Training/issues/3).
 
-This repo is the collection of materials prepared for these workshops and contributions by participants, including feedback in the workshops.
-
-We are continuing to work collaboratively with SSI to build and professionalise community management capacity, through joint grant applications and future training plans.  
-We would love to connect with anyone with a similar [vision](#vision-mission-and-objectives), and explore ways we can support your work. Please [get in touch!](#contact)
+This repo is the collection of materials prepared for these workshops, and the collaborative contributions made by participants, including their anonymous feedback on the workshops.
 
 You can review our [success against our objectives](./project-management/success-against-objectives.md) to see our reflections on this work to date!
+
+We are continuing to work collaboratively with SSI to build and professionalise community management capacity, through joint grant applications and future training plans.  
+We would love to connect with people or groups with a similar [vision](#vision-mission-and-objectives), and explore ways we can support your work. Please [get in touch!](#contact)
 
 
 ## Milestones
@@ -56,7 +57,7 @@ A more detailed delivery roadmap is available on [this issue](https://github.com
 
 - [x] Set delivery schedule
 - [x] Recruit participants
-- [x] Update materials
+- [x] Create training materials
 - [x] Deliver workshop and clinic 1
 - [x] Review feedback and respond
 - [x] Deliver workshop and clinic 2
@@ -77,7 +78,7 @@ A more detailed delivery roadmap is available on [this issue](https://github.com
 ## The Team
 
 - **Members:** 
-  - Oscar Siep (SSI) [@OscarSeip](https://github.com/OscarSeip)
+  - Oscar Seip (SSI) [@OscarSeip](https://github.com/OscarSeip)
   - Cassandra "Cass" Gould van Praag (RCM Cooperative) [@cassgvp](https://github.com/cassgvp)
   - Emma Karoune (RCM Cooperative, The Turing Way) [@EKaroune](https://github.com/EKaroune)
   - Malvika Sharan (RCM Cooperative, Thh Turing Way, OLS) [@malvikasharan](https://github.com/malvikasharan)
@@ -90,12 +91,15 @@ A more detailed delivery roadmap is available on [this issue](https://github.com
 
 ## Contributing
 
-- **Guidelines:** [Contribution Guidelines](CONTRIBUTING.md) for contributors.
-- **Code of Conduct:** [Code of Conduct](CODE_OF_CONDUCT.md) ensures a respectful project environment.
+We'd love your input in this work. 
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) to learn how you can participate in these activities. 
+
+We follow a [CODE_OF_CONDUCT.md (CoC)](CODE_OF_CONDUCT.md) to ensure a respectful project environment.
+Please review the CoC to understand how we try to work with each other, and what to do if you encounted behaviour which is not aligned with these expectations. 
 
 ## Licensing
 
-This project is licensed under the CC-BY-4.0 License - see the LICENSE.md file for details.
+This project is licensed under CC-BY-4.0 - see the [LICENSE.md](LICENSE.md) for details.
 
 ## Citing & Acknowledgement
 
@@ -115,7 +119,7 @@ This repository uses the template created and maintained by The Turing Way team 
 
 ### Slack
 - You are welcome to join us on RCM Cooperative slack! Please [email](#email) for an invite!
-- You can also find members of the [Team](#the-team) on [The Turing Way](https://book.the-turing-way.org), [OLS](http://we-are-ols.org/) and [Society of RSE](https://society-rse.org) slack workspaces - feel free to ping us there if that's easier for you!
+- You can also find members of the [Team](#the-team) on [The Turing Way](https://book.the-turing-way.org), [OLS](http://we-are-ols.org/) and [Society of RSE](https://society-rse.org) slack workspaces - feel free to connect there if that's easier for you!
 
 ## Contributors ✨
 
